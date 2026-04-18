@@ -1,0 +1,9 @@
+{
+  "name": "Remix: Copy of Chuyến Phiêu Lưu Văn Hoá",
+  "description": "A gamified language learning experience focused on Vietnamese heritage, phonetics, and culture.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
